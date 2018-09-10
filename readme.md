@@ -37,7 +37,7 @@ string -> string (The method is prepare to receive 16 or more chars, but not les
 
 ## Authors
 
-* **Martín Pastore** - *JS Developer* - [PurpleBooth](https://github.com/martinpastore)
+* **Martín Pastore** - *JS Developer* - [martinpastore](https://github.com/martinpastore)
 
 ## License
 
