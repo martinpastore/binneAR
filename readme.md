@@ -19,14 +19,14 @@ npm install binnear
 ## Getting started
 
 ```javascript
-var binnear = require('binnear');
+var binnear = require("binnear");
 ```
 
 ## Methods
 
 ### Check BIN
 
-```
+```javascript
 checkBin(bin)
 ```
 
@@ -34,7 +34,7 @@ checkBin(bin)
 
 ### Validate Card
 
-```
+```javascript
 validateBin(card)
 ```
 
