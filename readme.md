@@ -24,7 +24,7 @@ npm install binnear
 checkBin(bin)
 ```
 
-bin -> string (The method is prepare to receive 6 or more chars, but not less.)
+*bin -> string (The method is prepare to receive 6 or more chars, but not less.)*
 
 # Validate Card
 
@@ -32,12 +32,16 @@ bin -> string (The method is prepare to receive 6 or more chars, but not less.)
 validateBin(card)
 ```
 
-string -> string (The method is prepare to receive 16 or more chars, but not less.)
+*string -> string (The method is prepare to receive 16 or more chars, but not less.)*
 
 
 ## Authors
 
 * **Martín Pastore** - *JS Developer* - [martinpastore](https://github.com/martinpastore)
+
+## Contributions
+
+Please, feel free to contribute and increase bins in the list.
 
 ## License
 
