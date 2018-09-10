@@ -29,7 +29,7 @@ bin -> string (The method is prepare to receive 6 or more chars, but not less.)
 # Validate Card
 
 ```
-validateCard(card)
+validateBin(card)
 ```
 
 string -> string (The method is prepare to receive 16 or more chars, but not less.)
