@@ -2,7 +2,7 @@
 
 BinneAR is a simple but efective bin validator for all banks in Argentina
 
-### Installing
+## Installing
 
 To start, you must run the following command:
 
@@ -16,9 +16,15 @@ or
 npm install binnear
 ```
 
+## Getting started
+
+```
+var binnear = require('binnear');
+```
+
 ## Methods
 
-# Check BIN
+### Check BIN
 
 ```
 checkBin(bin)
@@ -26,7 +32,7 @@ checkBin(bin)
 
 *bin -> string (The method is prepare to receive 6 or more chars, but not less.)*
 
-# Validate Card
+### Validate Card
 
 ```
 validateBin(card)
