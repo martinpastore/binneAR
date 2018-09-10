@@ -18,7 +18,7 @@ npm install binnear
 
 ## Getting started
 
-```
+```javascript
 var binnear = require('binnear');
 ```
 
