@@ -38,7 +38,7 @@ checkBin(bin)
 validateBin(card)
 ```
 
-*card -> string (The method is prepare to receive 16 to 18 chars, not more, not less.)*
+*card -> string (The method is prepare to receive 13 to 18 chars, not more, not less.)*
 
 
 ## Authors
