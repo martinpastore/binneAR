@@ -1,6 +1,6 @@
 {
   "name": "binnear",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Argentinian bin validator",
   "main": "index.js",
   "scripts": {
