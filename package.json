@@ -1,6 +1,6 @@
 {
   "name": "binnear",
-  "version": "0.0.47",
+  "version": "0.0.48",
   "description": "Argentinian bin validator",
   "repository": "git://github.com/martinpastore/binnear.git",
   "main": "index.js",
