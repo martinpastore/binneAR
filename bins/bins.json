@@ -477,6 +477,7 @@
     "493718": { "bank": "BANCO DE SAN JUAN",                                             "type": "VISA", "entity": "RED LINK" },
     "498484": { "bank": "BANCO DE SAN JUAN",                                             "type": "VISA", "entity": "RED LINK" },
     "410082": { "bank": "BANCO DE SAN JUAN",                                             "type": "VISA", "entity": "RED LINK" },
+    "410083": { "bank": "BANCO DE SAN JUAN",                                             "type": "VISA", "entity": "RED LINK" },
     "450752": { "bank": "BANCO DE RIO NEGRO, S.A.",                                      "type": "VISA", "entity": "RED LINK" },
     "450753": { "bank": "BANCO DE RIO NEGRO, S.A.",                                      "type": "VISA", "entity": "RED LINK" },
     "450751": { "bank": "BANCO DE LA PROVINCIA DEL NEUQUEN",                             "type": "VISA", "entity": "RED LINK" },
