@@ -2,6 +2,7 @@
   "name": "binnear",
   "version": "0.0.4",
   "description": "Argentinian bin validator",
+  "repository": "git://github.com/martinpastore/binnear.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
