@@ -38,7 +38,7 @@ checkBin(bin)
 validateBin(card)
 ```
 
-*string -> string (The method is prepare to receive 16 or more chars, but not less.)*
+*string -> string (The method is prepare to receive 16 to 18 chars, but not less.)*
 
 
 ## Authors
@@ -47,7 +47,7 @@ validateBin(card)
 
 ## Contributions
 
-Please, feel free to contribute and increase bins in the list.
+Please, feel free to contribute and increase bins list.
 
 ## License
 
