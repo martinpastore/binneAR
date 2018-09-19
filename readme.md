@@ -30,7 +30,7 @@ var binnear = require('binnear');
 checkBin(bin)
 ```
 
-*bin -> string (The method is prepare to receive 6 or more chars, but not less.)*
+*bin -> string (The method is prepare to receive 6 or more chars, but no less.)*
 
 ### Validate Card
 
@@ -38,7 +38,7 @@ checkBin(bin)
 validateBin(card)
 ```
 
-*card -> string (The method is prepare to receive 13 to 18 chars, not more, not less.)*
+*card -> string (The method is prepare to receive 13 to 18 chars, no more, no less.)*
 
 
 ## Authors
