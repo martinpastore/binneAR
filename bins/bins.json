@@ -587,6 +587,7 @@
     "492169": { "bank": "BANCO DE CORRIENTES, S.A.",                                     "type": "VISA", "entity": "RED LINK" },
     "492180": { "bank": "BANCO DE CORRIENTES, S.A.",                                     "type": "VISA", "entity": "RED LINK" },
     "501020": { "bank": "BANCO DE CORRIENTES, S.A.",                                     "type": "MAESTRO", "entity": "RED LINK" },
+    "501021": { "bank": "BANCO DE CORRIENTES, S.A.",                                     "type": "MAESTRO", "entity": "RED LINK" },
     "416430": { "bank": "BANCO DE CATAMARCA",                                            "type": "VISA", "entity": "RED LINK" },
     "416431": { "bank": "BANCO DE CATAMARCA",                                            "type": "VISA", "entity": "RED LINK" },
     "416432": { "bank": "BANCO DE CATAMARCA",                                            "type": "VISA", "entity": "RED LINK" },
