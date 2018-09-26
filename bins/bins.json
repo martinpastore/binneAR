@@ -493,7 +493,7 @@
     "501023": { "bank": "BANCO DE LA PROVINCIA DE CORDOBA, S.A.",                        "type": "MAESTRO", "entity": "RED LINK" },
     "501062": { "bank": "BANCO DE LA PROVINCIA DE CORDOBA, S.A.",                        "type": "MAESTRO", "entity": "RED LINK" },
     "501066": { "bank": "BANCO DE LA PROVINCIA DE CORDOBA, S.A.",                        "type": "MAESTRO", "entity": "RED LINK" },
-    "511849": { "bank": "BANCO DE LA PROVINCIA DE CORDOBA (BANCO DE CORDOBA)",           "type": "MASTERCARD", "entity": "RED LINK" },
+    "511849": { "bank": "BANCO DE LA PROVINCIA DE CORDOBA, S.A.",                        "type": "MASTERCARD", "entity": "RED LINK" },
     "404854": { "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",                         "type": "VISA", "entity": "RED LINK" },
     "405755": { "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",                         "type": "VISA", "entity": "RED LINK" },
     "423270": { "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",                         "type": "VISA", "entity": "RED LINK" },
