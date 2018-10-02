@@ -206,6 +206,7 @@
     "456583": { "bank": "BERSA (BANCO DE ENTRE RIOS S.A.)",                              "type": "VISA", "entity": "RED LINK" },
     "456584": { "bank": "BERSA (BANCO DE ENTRE RIOS S.A.)",                              "type": "VISA", "entity": "RED LINK" },
     "405896": { "bank": "BERSA (BANCO DE ENTRE RIOS S.A.)",                              "type": "VISA", "entity": "RED LINK" },
+    "405897": { "bank": "BERSA (BANCO DE ENTRE RIOS S.A.)",                              "type": "VISA", "entity": "RED LINK" },
     "417856": { "bank": "BBVA BANCO FRANCES, S.A.",                                      "type": "VISA", "entity": "RED LINK" },
     "417857": { "bank": "BBVA BANCO FRANCES, S.A.",                                      "type": "VISA", "entity": "BANELCO" },
     "433831": { "bank": "BBVA BANCO FRANCES, S.A.",                                      "type": "VISA", "entity": "BANELCO" },
